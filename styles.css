@@ -15,6 +15,7 @@ section {
   min-height: 100vh;
 }
 .card {
+  border-radius: 10px;
   display: grid;
   place-items: center;
   align-content: center;

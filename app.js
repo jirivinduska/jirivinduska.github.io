@@ -1,4 +1,4 @@
-const countDownDate = new Date("Sep 2, 2023 12:00:00").getTime();
+const countDownDate = new Date(2023,8,2,13,00).getTime();
 
 
 
@@ -21,9 +21,7 @@ const x = setInterval(() => {
         hours +
         " hodin " +
         minutes +
-        " minut " +
-        seconds +
-        " vteřin";
+        " minut " + seconds + " vteřin ";
 
     // If the count down is finished, write some text
     if (distance < 0) {
