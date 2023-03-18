@@ -1,1 +1,1 @@
-# jirivinduska..github.io
+# jirivinduska.github.io
