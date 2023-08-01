@@ -1,1 +1,0 @@
-# jirivinduska.github.io
