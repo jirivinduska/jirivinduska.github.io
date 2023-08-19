@@ -130,6 +130,9 @@ figure {
   .fh5co-nav {
     padding: 20px 0;
   }
+  .custom-para{
+    margin: 0px !important;
+  }
 }
 
 .fh5co-nav #fh5co-logo {
@@ -2231,7 +2234,7 @@ form label {
 
 .text-bold-red {
   font-weight: bold;
-  color: red !important;
+  color: #c14229ff !important;
 }
 
 .text-small {
@@ -2253,5 +2256,9 @@ form label {
   padding-right: 50px;
   padding-left: 15px;
 }
-
+.custom-para{
+  padding-top: 2em;
+  color: #ffffff;
+  margin-left: 3em;
+}
 /*# sourceMappingURL=style.css.map */
