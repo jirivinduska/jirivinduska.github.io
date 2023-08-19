@@ -539,7 +539,7 @@ figure {
 
 #fh5co-counter .event-wrap .event-col,
 #fh5co-event .event-wrap .event-col {
-  width: 50%;
+  width: 100%;
   float: left;
   margin-bottom: 30px;
 }
@@ -1157,6 +1157,7 @@ form label {
   font-size: 12px;
   /* words */
 }
+
 .inherit-padding {
   padding: inherit;
 }
@@ -1408,7 +1409,7 @@ form label {
 }
 
 .aloha p {
-  text-align: justify;
+  text-align: center;
 }
 
 .fh5co-heading h3 {
@@ -2221,6 +2222,36 @@ form label {
 .flex-center {
   display: flex;
   justify-content: center;
+}
+
+.text-left {
+  text-align: left;
+  font-size: 18px;
+}
+
+.text-bold-red {
+  font-weight: bold;
+  color: red !important;
+}
+
+.text-small {
+  padding-top: 5em;
+  font-size: 16px !important;
+  ;
+  text-align: right;
+}
+
+.custom-event {
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+
+.event-with-padding {
+  padding-right: 50px;
+  padding-left: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
